@@ -1,0 +1,2 @@
+polybar|notice:  Parsing config file: /home/dumpst/.config/polybar/config.ini
+polybar|error: Uncaught exception, shutting down: Undefined bar: example. Available bars: main
