@@ -1,1 +1,1 @@
-DOt files for my Arch configuration
+DOT files for my Arch configuration
